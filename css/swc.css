@@ -162,8 +162,7 @@ body {
 }
 
 body.workshop, body.lesson {
-/*	background-color: #C3B1C2; */
-	background-color: #BBBBEE;
+	background-color: #C3B1C2;
 	margin: 20px 0;
 }
 
